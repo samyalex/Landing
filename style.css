@@ -1,0 +1,61 @@
+body{
+  background: #9DC4B5;
+  color: black;
+  font-size: 16px;
+  font-family: Nosifer;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: bolderer;
+  font-size: 50px;
+}
+h2 {
+  font-family: Courier;
+  color: rgb(50,50 50);
+  font-weight: lighter;
+  font-size: 35px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: #967AA1;
+}
+  #banner{
+  text-align: center;
+  background-image:url("images/smedcampustour.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer a {
+  color: pink;
+  font-size:30px; }
+
+#footer a:hover {
+    color:#967AA1;
+  }
